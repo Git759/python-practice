@@ -1,0 +1,7 @@
+input1=input("Enter the principal amount")
+input2=input("Enter the rate of interest")
+input3=input("Enter the number of years ")
+in1=int(input1)
+in2=int(input2)
+in3=int(input3)
+print("The simple interest is",(in1*in2*in3)/100)

@@ -1,0 +1,5 @@
+number1 = input("enter the number")
+number2 = input("enter the number" )
+num1=int(number1)
+num2=int(number2)
+print(number1,"*",number2,"=",num1*num2)
